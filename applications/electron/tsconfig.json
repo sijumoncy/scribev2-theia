@@ -5,5 +5,9 @@
     "composite": true,
     "esModuleInterop": true
   },
-  "references": [],
+  "references": [
+    {
+      "path": "../../scribe-extensions/core"
+    }
+  ]
 }
